@@ -1,0 +1,16 @@
+
+*.png
+
+datasets/non-vehicles/GTI/\.DS_Store
+
+datasets/vehicles/GTI_Left/\.DS_Store
+
+datasets/vehicles/GTI_MiddleClose/\.DS_Store
+
+datasets/non-vehicles/Extras/\.DS_Store
+
+datasets/vehicles/GTI_Far/\.DS_Store
+
+datasets/vehicles/GTI_Right/\.DS_Store
+
+datasets/vehicles/KITTI_extracted/\.DS_Store
